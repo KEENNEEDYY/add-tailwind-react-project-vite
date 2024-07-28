@@ -1,0 +1,1 @@
+export const title_css = "bg-white text-black text-5xl";
